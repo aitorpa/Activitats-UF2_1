@@ -3,6 +3,7 @@ _Apuntes hechos por: Aitor Perez_
 ### OBJETIVOS DE LAS PRUEBAS
 Muy concretamente, las pruebas sirven sobre todo para conseguir averiguar si el software no hace lo que tiene que hacer o si el software hace lo que no debe hacer.
 ![N|Solid](https://i.blogs.es/a19bfc/testing/450_1000.jpg)
+
 Para hacer estas pruebas existen diferentes **frameworks** -> es una estructura base utilizada como punto de partida para elaborar un proyecto con objetivos específicos. (Marco de trabajo).
 
 - Estos están formados por:
