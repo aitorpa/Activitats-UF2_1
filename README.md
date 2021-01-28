@@ -27,6 +27,18 @@ Continuamos en las pruebas, esta vez para hablar de dos tipos de estrategias uti
 
 ![N|Solid](https://jamj2000.github.io/entornosdesarrollo/3/assets/caja_blanca-caja_negra.png)
 
+En las pruebas de caja negra, nos enfocamos solamente en las entradas y salidas del sistema, sin preocuparnos en tener conocimiento de la estructura interna del programa de software. Para obtener el detalle de cuáles deben ser esas entradas y salidas, nos basamos en los requerimientos de software y especificaciones funcionales.
+
+En las pruebas de caja blanca, nos enfocamos nos centramos en el código fuente y en su ejecución comprobando cada uno de sus diferentes métodos. Este método se usa en la fase de pruebas de unidad, aunque también puede ocurrir en otras fases como en las pruebas de sistema o de integración.
+
+### TIPOS DE PRUEBAS
+Como norma general, existen dos tipos de pruebas, **las funcionales y las no funcionales**, las pruebas funcionales evaluan el cumplimiento de los requisitos, dentro de ellas, podríamos considerar dentro del saco de funcionales las pruebas unitarias, las de regresión, las de integración, las de humo, las del sistema, las alfa y beta y las de aceptación (validación por parte del cliente). En cambio, las no funcionales evaluan aspectos adicionales como rendimiento, seguridad, ..., donde podríamos relacionar pruebas no funcionales las pruebas de usabilidad, las de rendimiento, las de stress, las de seguridad, las de compatibilidad, las de portabilidad, etc.
+
+![N|Solid](https://testerhouse.com/wp-content/uploads/2019/03/testerhouse-pruebas-funcionales-1024x680.png)
+
+### MECANISMOS DE PRUEBA
+Existen dos tipos de mecanismos de prueba, **los manuales y los automáticos**. Los mecanismos de prueba manuales se realizan mediante pruebas realizadas por personal de la empresa o externo mientras que los mecanismos de prueba automáticos se realizan mediante software que se ejecuta de una forma automática comparando los resultados que se esperaban de la prueba con los resultados que se han obtenido.
+
 ### INTEGRACIÓN
 
 En este breve apartado me centraré en explicar sobre la integridad. Existen 4 formas de integración:
