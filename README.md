@@ -63,3 +63,21 @@ Para lograr un control de calidad, principalmente, realizaremos las pruebas sufi
 Primero, vamos a diferenciar entre **QA i QC**, QA es un conjunto de actividades para garantizar la calidad en los procesos mediante los cuales se desarrollan los productos mientras que QC es un conjunto de actividades para garantizar la calidad de los productos. Las actividades se centran en identificar defectos en los productos reales producidos.
 
 ![N|Solid](https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/landing_page_custom_blocks/public/thumbnails/image/QAQC_3.png)
+
+Exsiten diferentes factores de calidad, oficialmente se agrupan en 3 ámbitos:
+- Operación del producto:
+   - Corrección
+   - Fiabilidad
+   - Eficiencia
+   - Seguridad
+   - Facilidad de uso
+
+- Revisión del producto:
+   - Mantenibilidad
+   - Flexibilidad
+   - Facilidad de prueba
+
+- Transición del producto:
+   - Portabilidad
+   - Reusabilidad
+   - Interoperatividad
