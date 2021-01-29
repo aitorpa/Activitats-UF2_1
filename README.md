@@ -56,3 +56,10 @@ Tambien dan a conocer los 4 servidores de integraión **continua**:
 - CircleCI
 
 Y como última parte a destacar sobre la integración, remarcar la **cobertura de código**, para empezar, la cobertura de código es una medida que indica el porcentaje de código que ha sido ejecutado durante las pruebas (es posible realizar la cobertura tanto desde el IDE como desde un servicio web apropiado), siempre, se busca que se aproxime lo más cercano al 100% y si llegase a ser un 100%, entonces se ha ejecutado todo el código fuente durante las pruebas, si llegase a ser menor del 100% entonces existe código fuente que no se ha ejecutado durante las pruebas.
+
+### CALIDAD
+
+Para lograr un control de calidad, principalmente, realizaremos las pruebas suficientes para lograr una medición de la calidad, de un producto.
+Primero, vamos a diferenciar entre **QA i QC**, QA es un conjunto de actividades para garantizar la calidad en los procesos mediante los cuales se desarrollan los productos mientras que QC es un conjunto de actividades para garantizar la calidad de los productos. Las actividades se centran en identificar defectos en los productos reales producidos.
+
+![N|Solid](https://www.softwaretestingclass.com/wp-content/uploads/2013/10/difference-between-quality-assurance-vs-quality-control.jpg)
