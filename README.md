@@ -62,4 +62,4 @@ Y como última parte a destacar sobre la integración, remarcar la **cobertura d
 Para lograr un control de calidad, principalmente, realizaremos las pruebas suficientes para lograr una medición de la calidad, de un producto.
 Primero, vamos a diferenciar entre **QA i QC**, QA es un conjunto de actividades para garantizar la calidad en los procesos mediante los cuales se desarrollan los productos mientras que QC es un conjunto de actividades para garantizar la calidad de los productos. Las actividades se centran en identificar defectos en los productos reales producidos.
 
-![N|Solid](https://www.softwaretestingclass.com/wp-content/uploads/2013/10/difference-between-quality-assurance-vs-quality-control.jpg)
+![N|Solid](https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/landing_page_custom_blocks/public/thumbnails/image/QAQC_3.png)
