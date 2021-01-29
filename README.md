@@ -81,3 +81,5 @@ Exsiten diferentes factores de calidad, oficialmente se agrupan en 3 ámbitos:
    - Portabilidad
    - Reusabilidad
    - Interoperatividad
+   
+![N|Solid](https://1.bp.blogspot.com/-q_LiZkWk6YI/W1zQLN3QvWI/AAAAAAAADfQ/oGZSxXx7L7wBMxxImXmb8E_9nNEl7LjlwCLcBGAs/s1600/modelo%2Bde%2BMcCall.jpg)
