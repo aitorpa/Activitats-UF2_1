@@ -39,6 +39,8 @@ Como norma general, existen dos tipos de pruebas, **las funcionales y las no fun
 ### MECANISMOS DE PRUEBA
 Existen dos tipos de mecanismos de prueba, **los manuales y los automáticos**. Los mecanismos de prueba manuales se realizan mediante pruebas realizadas por personal de la empresa o externo mientras que los mecanismos de prueba automáticos se realizan mediante software que se ejecuta de una forma automática comparando los resultados que se esperaban de la prueba con los resultados que se han obtenido.
 
+![N|Solid](https://s03.s3c.es/imag/_v0/770x420/5/c/2/MTP-cortesia--5.jpg)
+
 ### INTEGRACIÓN
 
 En este breve apartado me centraré en explicar sobre la integridad. Existen 4 formas de integración:
